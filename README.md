@@ -74,14 +74,15 @@ def crossover(expr1, expr2, depth=0):
 
 ## Resultados:
 
-Best Solution Expression:
+### Best Solution Expression:
+
 $((-8 > ((((8 - 10) > (2 + 2)) * (-8 * (7 > 10))) - (((-10 * v) * -3) and ((-7 * -6) + (v > -10))))) > (((w + (-10 / (-5 / -8))) > ((-8 and 8) + ((3 and 1) and -3))) / ((6 < t) < (-8 > ((v / -6) * (-4 * -3))))))$
 
-Selected Items:
+### Selected Items:
 
 - Weight: 4, Value: 5, Time: 4
 - Weight: 5, Value: 8, Time: 5
 - Weight: 4, Value: 7, Time: 4
 - Weight: 2, Value: 6, Time: 2
 
-Total Weight: 15, Total Time: 15
+### Total Weight: 15, Total Time: 15
