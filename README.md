@@ -8,7 +8,7 @@ O problema da mochila consiste em uma coleção de itens, cada um com um peso, v
 
 ## Programação Genética de Expressões (GEP)
 
-A GEP é uma técnica evolutiva que combina a programação genética com uma representação genotípica linear. Em vez de evoluir soluções diretamente, evoluímos expressões ou programas que, quando avaliados, produzem soluções para o problema.
+A GEP é baseada em uma população de indivíduos, onde cada indivíduo possui um "genoma" que representa uma solução potencial para o problema. A evolução ocorre através de operadores genéticos, como seleção, cruzamento e mutação, com o objetivo de encontrar soluções cada vez melhores.
 
 ## Representação das Expressões
 
